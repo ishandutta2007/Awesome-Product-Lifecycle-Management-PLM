@@ -54,7 +54,10 @@ When evaluating Product Lifecycle Management platforms, organizations look acros
   - [Kosha](#kosha)
   - [FreeBOM](#freebom)
 - [Comparison at a Glance](#-comparison-at-a-glance)
+- [Star History](#-star-history)
+- [Support](#-support)
 - [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
@@ -189,6 +192,23 @@ FreeBOM is an open-source component for managing multi-level Bills of Materials 
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Product-Lifecycle-Management-PLM&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Product-Lifecycle-Management-PLM&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring this curated PLM ecosystem directory! If you found this repository valuable for your architecture, evaluation, or engineering workflow:
+
+- ⭐ **Star this repository** to help others discover it
+- 🍴 **Fork it** and contribute missing tools or benchmarks
+- 📢 **Share it** with fellow hardware developers, product managers, and manufacturing engineers
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to support ongoing maintenance and new tools research, please visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you know of an open-source Product Lifecycle Management (PLM) tool that should be listed here, please open a pull request with:
@@ -208,4 +228,7 @@ This list is released under CC0 1.0 Universal (Public Domain). The software proj
 
 ---
 
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+<div align="center">
+  <p>⭐ <b>If this list helped you discover a useful tool, please star the repo!</b> ⭐</p>
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" /></a>
+</div>
