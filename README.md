@@ -36,33 +36,16 @@
 
 Commercial, cloud-hosted Product Lifecycle Management platforms. These are not open-source but are included as reference points for feature comparison.
 
-### Siemens Teamcenter
-**Type:** Enterprise PLM standard for discrete manufacturing
-Teamcenter is one of the most widely deployed enterprise PLM platforms, covering BOM management, engineering change, requirements, quality, and manufacturing planning across complex, global product development organizations. Pricing is enterprise-quoted and typically requires significant implementation investment.
-
-### PTC Windchill
-**Type:** Enterprise PLM with CAD integration depth
-Windchill provides comprehensive PLM for discrete manufacturers, with deep integration into Creo and other CAD tools, BOM management, change control, and quality planning. It is frequently compared against Aras Innovator and Teamcenter in enterprise evaluations.
-
-### Dassault ENOVIA
-**Type:** Enterprise PLM within Dassault Systèmes ecosystem
-ENOVIA is Dassault's PLM platform, tightly integrated with CATIA and SOLIDWORKS for design data management, BOM, change, and program management. It is the natural choice for organizations standardized on Dassault's 3DEXPERIENCE platform.
-
-### Autodesk Fusion 360 Manage
-**Type:** Cloud PLM for mid-market manufacturers
-Fusion 360 Manage (formerly Fusion Lifecycle) provides cloud-based PLM with BOM management, change control, and quality processes, integrated with Autodesk's design tools. Positioned for mid-market organizations wanting a modern cloud PLM without enterprise complexity.
-
-### Arena PLM
-**Type:** Cloud PLM for electronics and medical devices
-Arena PLM (PTC) specializes in BOM management, change control, and quality for electronics, medical device, and discrete manufacturing companies. It is known for rapid deployment and strong supplier collaboration features.
-
-### Centric Software
-**Type:** PLM for fashion, retail, and consumer goods
-Centric PLM is purpose-built for apparel, footwear, and consumer goods, covering product design, sourcing, costing, sustainability, and launches [citation:2]. It is the leading choice for fashion and retail brands.
-
-### Oracle Agile PLM
-**Type:** Enterprise PLM within Oracle ecosystem
-Oracle Agile PLM provides product data management, BOM, change control, and quality for discrete manufacturers, integrating with Oracle ERP and supply chain systems. Suited for Oracle-centric enterprises.
+| Platform | Target Focus | Pricing (Starting Tier) | Free Tier / Trial Limit |
+|---|---|---|---|
+| **Siemens Teamcenter (Teamcenter X)** | Enterprise PLM for discrete manufacturing & global engineering | $165/user/month (Teamcenter X Essentials, billed annually at $1,980/user/yr) | 30-day free trial with pre-configured cloud industry environments (BOM, CAD, change management) |
+| **PTC Windchill (Windchill+)** | Enterprise PLM with CAD & multi-CAD engineering depth | ~$250/user/month (~$3,000/user/year for standard author seats) | No core PLM free trial; 15-day guided trial for Windchill Navigate & 30-day trial for Windchill Risk & Reliability |
+| **Dassault ENOVIA (3DEXPERIENCE)** | Enterprise PLM deeply integrated with CATIA & SOLIDWORKS | $115/user/month ($345/user/quarter for 3DSwymer/platform collaboration roles; ~$2,900+/user/yr for core governance/PLM) | No open self-service free trial; vendor-assisted sales proof-of-concept (PoC) & 3-month structured Drive-to-Trial programs |
+| **Autodesk Fusion Manage** | Cloud PLM for mid-market product development & BOM workflows | $100/user/month (billed annually at $1,200/user/yr; Flex tokens available at 4–8 tokens/day; Contributor seats at ~$250/yr) | No self-service free trial; 30-day proof-of-concept / evaluation tenant upon request via sales |
+| **Arena PLM (PTC)** | Cloud PLM & QMS for high-tech electronics & medical devices | ~$100/user/month (Launch tier starting at ~$1,200/user/year; typical entry contract ~$10,000/yr minimum spend) | 10-day free trial (self-guided evaluation for BOM, Change, and Document Management; no credit card required) |
+| **Centric Software (Centric PLM)** | Purpose-built PLM for fashion, retail, footwear, luxury & CPG | ~$150/user/month (subscription tier based on user roles and enterprise modules; typical deployments quote annual contracts) | No free trial; interactive custom product demos and guided enterprise walkthroughs available upon request |
+| **Oracle Agile PLM (Fusion Cloud PLM)** | Legacy & cloud PLM for discrete manufacturing & supply chains | $6,545/Application User (one-time perpetual license + $1,439.90/yr annual support for Agile Product Collaboration module) | No free trial for Agile PLM application; 30-day trial ($300 cloud credits) for general Oracle Cloud Infrastructure |
+| **Propel Software (Propel PLM)** | Salesforce-native PLM, QMS, and PIM for commercial & engineering alignment | $73/user/month (billed annually; full PLM & QMS suites start upwards of $250/user/month or $3,000/user/yr) | No free trial; live personalized demonstrations and proof-of-concept sandbox environments upon request |
 
 ---
 
