@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Product-Lifecycle-Management-PLM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Product-Lifecycle-Management-PLM?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Product-Lifecycle-Management-PLM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Product-Lifecycle-Management-PLM?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Product-Lifecycle-Management-PLM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Product-Lifecycle-Management-PLM?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -86,84 +86,84 @@ Commercial, cloud-hosted Product Lifecycle Management platforms. These are not o
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Product Lifecycle Management and Product Data Management (PDM/BOM) tools, sorted by GitHub stars.
+Self-hosted, community-driven Product Lifecycle Management and Product Data Management (PDM/BOM) tools, sorted by GitHub_Stars.
 
-### Odoo PLM [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+### Odoo PLM [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
 **Stack:** Python / PostgreSQL | **License:** LGPLv3 (Community)
 Odoo's PLM suite tracks engineering revisions, engineering change orders (ECOs), and product master data directly synced with inventory, bills of materials (BoMs), routings, and shop floor work orders. While focused heavily on ERP-native manufacturing, it is an exceptionally popular and turnkey solution for machine shops and hardware builders.
 **Best for:** Teams and machine shops already using or planning to adopt Odoo for ERP, accounting, and inventory who want engineering change and revision management integrated out of the box.
 
-### FreeCAD [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
+### FreeCAD [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
 **Stack:** C++ / Python / Qt | **License:** LGPL-2.1
 FreeCAD is the premiere open-source parametric 3D modeler with dedicated workbenches and companion extensions for Product Data Management (PDM), assembly hierarchies, and Bill of Materials (BOM) inspection. It integrates with open-source PDM servers and Git-based PLM workflows for version control of mechanical parts and assemblies.
 **Best for:** Open-source hardware designers and engineers needing a fully free 3D CAD modeling suite integrated with mechanical part structures and BOM extraction.
 
-### InvenTree [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)
+### InvenTree [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)
 **Stack:** Python / Django / React | **License:** MIT
 InvenTree is an intuitive open-source inventory, part tracking, and multi-level Bill of Materials (BOM) management system with powerful REST API endpoints and extensive plugin architecture. Often considered the lightweight open-source companion to enterprise PLM, it manages parts, suppliers, parameter templates, assemblies, and manufacturing orders.
 **Best for:** Startups, makerspaces, and hardware engineering teams requiring lightweight part lifecycle and BOM management without heavy enterprise PLM administrative overhead.
 
-### Part-DB [![GitHub stars](https://img.shields.io/github/stars/Part-DB/Part-DB-server?style=social&color=white)](https://github.com/Part-DB/Part-DB-server/stargazers)
+### Part-DB [![GitHub_Stars](https://img.shields.io/github/stars/Part-DB/Part-DB-server?style=social&color=white)](https://github.com/Part-DB/Part-DB-server/stargazers)
 **Stack:** PHP / Symfony / Vue.js | **License:** AGPLv3
 Part-DB is a modern web-based electronic component and inventory management system designed for hardware makers and electrical engineering labs. It supports hierarchical categories, multi-level BOM creation, datasheet attachments, footprint tracking, and barcode/QR scanning.
 **Best for:** Electronics design and hardware labs needing structured component inventory, supplier pricing tracking, and BOM management.
 
-### DocDokuPLM [![GitHub stars](https://img.shields.io/github/stars/docdoku/docdoku-plm?style=social&color=white)](https://github.com/docdoku/docdoku-plm/stargazers)
+### DocDokuPLM [![GitHub_Stars](https://img.shields.io/github/stars/docdoku/docdoku-plm?style=social&color=white)](https://github.com/docdoku/docdoku-plm/stargazers)
 **Stack:** Java / Docker / Cloud-Native | **License:** AGPLv3
 DocDokuPLM is an enterprise-grade, cloud-native open-source PLM platform engineered for Docker and Kubernetes deployments. It features document management with full revision control, product breakdown structure (PBS), configurable Bill of Materials (effectivities, alternatives, substitutes), change workflows, and a WebGL-based browser 3D CAD visualizer.
 **Best for:** Manufacturing enterprises looking for a modular, cloud-native open-source PLM with rich CAD visualization and strict engineering change workflows.
 
-### GitPLM [![GitHub stars](https://img.shields.io/github/stars/git-plm/gitplm?style=social&color=white)](https://github.com/git-plm/gitplm/stargazers)
+### GitPLM [![GitHub_Stars](https://img.shields.io/github/stars/git-plm/gitplm?style=social&color=white)](https://github.com/git-plm/gitplm/stargazers)
 **Stack:** Git / CLI / Python | **License:** Open Source
 GitPLM is an open-source PLM concept and toolset that stores manufacturing data, part numbering schemas, and BOM hierarchies in Git text formats (YAML/CSV). It brings modern software engineering practices—branching, diffing, and pull request reviews—directly to hardware development.
 **Best for:** Technical hardware teams and firmware/hardware co-designers wanting Git-native version control for bills of materials and hardware releases without database setup.
 
-### PLMore [![GitHub stars](https://img.shields.io/github/stars/PLMore/PLMore?style=social&color=white)](https://github.com/PLMore/PLMore/stargazers)
+### PLMore [![GitHub_Stars](https://img.shields.io/github/stars/PLMore/PLMore?style=social&color=white)](https://github.com/PLMore/PLMore/stargazers)
 **Stack:** Node.js / TypeScript / Web | **License:** Open Source
 PLMore is an open-source web-based PLM platform designed as an alternative to enterprise suites like Windchill and Teamcenter. It provides centralized multi-level BOM exploration, component risk assessment, lifecycle state tracking, and health diagnostics.
 **Best for:** Engineering teams exploring a modern, lightweight web-based alternative to legacy enterprise PLM platforms.
 
-### openPLM [![GitHub stars](https://img.shields.io/github/stars/amarh/openPLM?style=social&color=white)](https://github.com/amarh/openPLM/stargazers)
+### openPLM [![GitHub_Stars](https://img.shields.io/github/stars/amarh/openPLM?style=social&color=white)](https://github.com/amarh/openPLM/stargazers)
 **Stack:** Python / Django | **License:** GPLv3
 openPLM is a dedicated open-source PLM system providing core part definition, multi-level BOM structures, document revision history, and collaborative engineering workflows. It is built for discrete manufacturers seeking structured traceability.
 **Best for:** Small to mid-sized discrete manufacturers transitioning from spreadsheets and network drives to formal revision-controlled parts and BOMs.
 
-### Dokuly [![GitHub stars](https://img.shields.io/github/stars/Dokuly-PLM/dokuly?style=social&color=white)](https://github.com/Dokuly-PLM/dokuly/stargazers)
+### Dokuly [![GitHub_Stars](https://img.shields.io/github/stars/Dokuly-PLM/dokuly?style=social&color=white)](https://github.com/Dokuly-PLM/dokuly/stargazers)
 **Stack:** TypeScript / Node.js / React | **License:** Open Source
 Dokuly is a modern, developer-friendly open-source PLM system crafted specifically for hardware teams. It provides part lifecycle states, multi-level BOM tracking, purchase order generation, supplier integration APIs (DigiKey, Mouser), and document control.
 **Best for:** Fast-moving hardware startups looking for an open-source PLM with active component sourcing and BOM management.
 
-### Cascadia PLM [![GitHub stars](https://img.shields.io/github/stars/Cascadia-PLM/Cascadia-App?style=social&color=white)](https://github.com/Cascadia-PLM/Cascadia-App/stargazers)
+### Cascadia PLM [![GitHub_Stars](https://img.shields.io/github/stars/Cascadia-PLM/Cascadia-App?style=social&color=white)](https://github.com/Cascadia-PLM/Cascadia-App/stargazers)
 **Stack:** TypeScript / Next.js / PostgreSQL | **License:** AGPLv3
 Cascadia is a modern, code-first Digital Thread and PLM application designed to replace legacy low-code platforms. It provides ECO-as-branch change management, enforced part lifecycles, CAD/STEP file parsing, digital twin records, and unified item modeling via declarative TypeScript configurations.
 **Best for:** Modern hardware engineering organizations seeking an API-driven digital thread with Git-like branch-and-merge ECO change management.
 
-### Innovator.Client (Aras Community) [![GitHub stars](https://img.shields.io/github/stars/erdomke/Innovator.Client?style=social&color=white)](https://github.com/erdomke/Innovator.Client/stargazers)
+### Innovator.Client (Aras Community) [![GitHub_Stars](https://img.shields.io/github/stars/erdomke/Innovator.Client?style=social&color=white)](https://github.com/erdomke/Innovator.Client/stargazers)
 **Stack:** C# / .NET | **License:** MIT
 The most widely starred open-source community development framework for Aras Innovator (the prominent enterprise open-core PLM suite). Provides modern async .NET client libraries, AML querying, and automated test utilities to extend Aras Innovator community instances.
 **Best for:** Developers and enterprise teams extending and integrating Aras Innovator PLM with external databases, ERPs, and automated build pipelines.
 
-### beCPG [![GitHub stars](https://img.shields.io/github/stars/becpg/becpg-community?style=social&color=white)](https://github.com/becpg/becpg-community/stargazers)
+### beCPG [![GitHub_Stars](https://img.shields.io/github/stars/becpg/becpg-community?style=social&color=white)](https://github.com/becpg/becpg-community/stargazers)
 **Stack:** Java 21 / Spring / Alfresco / Solr / PostgreSQL | **License:** LGPLv3
 beCPG is an all-in-one open-source PLM specifically designed for **food, beverage, and cosmetics** manufacturers. It features deterministic calculation engines for nutritional tables, ingredient declarations, packaging specs, allergen tracking, and regulatory compliance.
 **Best for:** Food, cosmetics, and formulation-based process manufacturers needing out-of-the-box regulatory and labeling automation.
 
-### plm-rs [![GitHub stars](https://img.shields.io/github/stars/jaredwolff/plm-rs?style=social&color=white)](https://github.com/jaredwolff/plm-rs/stargazers)
+### plm-rs [![GitHub_Stars](https://img.shields.io/github/stars/jaredwolff/plm-rs?style=social&color=white)](https://github.com/jaredwolff/plm-rs/stargazers)
 **Stack:** Rust / CLI | **License:** MIT
 plm-rs is a blazingly fast Rust CLI tool for BOM parsing, schematic import (Eagle, KiCad), shortage tracking, and component lifecycle management.
 **Best for:** Embedded and electrical engineers wanting a lightning-fast local CLI tool for BOM verification and inventory shortages.
 
-### TurboPLM [![GitHub stars](https://img.shields.io/github/stars/horatiumm-creator/turboplm?style=social&color=white)](https://github.com/horatiumm-creator/turboplm/stargazers)
+### TurboPLM [![GitHub_Stars](https://img.shields.io/github/stars/horatiumm-creator/turboplm?style=social&color=white)](https://github.com/horatiumm-creator/turboplm/stargazers)
 **Stack:** TypeScript / React / Node.js | **License:** MIT
 TurboPLM is an open-source hardware lifecycle management tool featuring multi-level BOMs, enforced part revision states, engineering change orders, and in-browser 3D CAD visualization.
 **Best for:** Hardware teams looking for a lightweight, modern web interface for part revisions and BOM exploration.
 
-### Kosha [![GitHub stars](https://img.shields.io/github/stars/kishor-desarda/Kosha?style=social&color=white)](https://github.com/kishor-desarda/Kosha/stargazers)
+### Kosha [![GitHub_Stars](https://img.shields.io/github/stars/kishor-desarda/Kosha?style=social&color=white)](https://github.com/kishor-desarda/Kosha/stargazers)
 **Stack:** Python / Vue.js / Linux | **License:** Open Source
 Kosha is a self-hosted open-source PLM and PDM for engineering companies, featuring multi-level BOMs, CAD file revision control, change management, and ERP connectors (ERPNext, Odoo).
 **Best for:** Engineering firms wanting a lightweight Linux-hosted PDM/PLM system with direct open ERP integration.
 
-### FreeBOM [![GitHub stars](https://img.shields.io/github/stars/alekssadowski95/FreeBOM?style=social&color=white)](https://github.com/alekssadowski95/FreeBOM/stargazers)
+### FreeBOM [![GitHub_Stars](https://img.shields.io/github/stars/alekssadowski95/FreeBOM?style=social&color=white)](https://github.com/alekssadowski95/FreeBOM/stargazers)
 **Stack:** JavaScript / Node.js | **License:** MIT
 FreeBOM is an open-source component for managing multi-level Bills of Materials (BOM), designed for straightforward embedding inside custom PDM or PLM software.
 **Best for:** Developers building bespoke internal manufacturing tools needing an open-source BOM data component.
