@@ -9,14 +9,8 @@
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Siemens Teamcenter](#siemens-teamcenter)
-  - [PTC Windchill](#ptc-windchill)
-  - [Dassault ENOVIA](#dassault-enovia)
-  - [Autodesk Fusion 360 Manage](#autodesk-fusion-360-manage)
-  - [Arena PLM](#arena-plm)
-  - [Centric Software](#centric-software)
-  - [Oracle Agile PLM](#oracle-agile-plm)
 - [Open-Source Software](#-open-source-software)
   - [beCPG](#becpg)
   - [Aras Innovator (Community Edition)](#aras-innovator-community-edition)
@@ -29,6 +23,12 @@
   - [Odoo PLM](#odoo-plm)
 - [Comparison at a Glance](#-comparison-at-a-glance)
 - [Contributing](#-contributing)
+
+---
+
+## 🌐 Sector Overview & Market Dynamics
+
+The global Product Lifecycle Management (PLM) market is estimated at **$48B to $52B** (with the broader digital manufacturing and engineering software ecosystem surpassing **$88B**), growing at a compound annual growth rate (CAGR) of ~7–10%. The sector features a **moderately concentrated oligopoly at the top**—dominated by legacy enterprise titans like Siemens, Dassault Systèmes, PTC, Oracle, and Autodesk who command Fortune 500 aerospace, automotive, and heavy industrial accounts—paired with a **fragmented long-tail** of specialized, vertical-specific vendors (e.g., CPG, fashion, medical devices) and open-source/developer-centric alternatives serving agile SMEs.
 
 ---
 
