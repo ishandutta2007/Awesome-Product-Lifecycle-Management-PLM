@@ -1,14 +1,25 @@
-# Awesome-Product-Lifecycle-Management-PLM
+# Awesome Product Lifecycle Management (PLM) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome Product Lifecycle Management (PLM)
+> A curated directory of leading Product Lifecycle Management (PLM), Product Data Management (PDM), and Bill of Materials (BOM) platforms — covering enterprise cloud SaaS suites and self-hosted open-source software solutions for hardware engineers, manufacturing teams, and product managers.
+>
+> 🌟 **Star this repository** if you find it helpful for your engineering architecture or PLM software evaluation!
 
-> A curated list of top Product Lifecycle Management (PLM) platforms — both SaaS/Hosted commercial enterprise suites and open-source alternatives for managing product data, bills of materials, engineering changes, and quality across the lifecycle.
-> 🌟 Star this repo if you find it useful! 🌟
+---
+
+## 🔍 Key Capabilities & PLM Evaluation Criteria
+
+When evaluating Product Lifecycle Management platforms, organizations look across several mission-critical pillars:
+- **Bill of Materials (BOM) Management:** Multi-level EBOM (Engineering BOM), MBOM (Manufacturing BOM), and SBOM (Service BOM) transformation with part lifecycle enforcement.
+- **Engineering Change Management (ECM / ECO):** Engineering Change Requests (ECR), Engineering Change Orders (ECO), redlining, and branch-level impact analysis.
+- **CAD & EDA Integrations:** Direct bidirectional integration with mechanical CAD (Creo, SolidWorks, CATIA, NX, Inventor, FreeCAD) and electronic CAD (Altium, KiCad, Eagle).
+- **Digital Thread & Digital Twin:** End-to-end traceability from requirements and compliance to shop-floor manufacturing execution systems (MES) and enterprise resource planning (ERP).
+- **Quality & Regulatory Compliance:** CAPA (Corrective and Preventive Action), FMEA, RoHS/REACH compliance, and audit trail maintenance.
 
 ---
 
 ## 📋 Table of Contents
 
+- [Key Capabilities & PLM Evaluation Criteria](#-key-capabilities--plm-evaluation-criteria)
 - [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
 - [Open-Source Software](#-open-source-software)
